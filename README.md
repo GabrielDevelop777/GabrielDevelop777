@@ -9,16 +9,15 @@
 ```javascript
 const gabriel = {
   skills: ['HTML5', 'CSS', 'JavaScript'],
-  estudando: ['React', 'TypeScript', 'Node.js'],
-  objetivo: 'Criar experiências web interativas e acessíveis',
-  hobbies: ['Desenvolvimento de jogos', 'Tecnologia', 'Design de UI/UX']
+  estudando: ['React', 'Express', 'Node.js'],
+  objetivo: 'Criar experiências web interativas e acessíveis'
 };
 ```
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> Projetos Destacados
 
 <div align="center">
-  <a href="https://github.com/GabrielDevelop777/Conversor-de-Moedas">
+  <a href="https://github.com/GabrielDevelop777/pedido-via-wpp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielDevelop777&repo=Conversor-de-Moedas&theme=tokyonight" />
   </a>
   <a href="https://github.com/GabrielDevelop777/gestor-de-tarefas">
@@ -30,7 +29,7 @@ const gabriel = {
   <a href="https://github.com/GabrielDevelop777/snake-game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielDevelop777&repo=snake-game&theme=tokyonight" />
   </a>
-  <a href="https://github.com/GabrielDevelop777/JokenPo">
+  <a href="https://github.com/GabrielDevelop777/dev-previsao">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielDevelop777&repo=JokenPo&theme=tokyonight" />
   </a>
 </div>
