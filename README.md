@@ -18,7 +18,7 @@ const gabriel = {
 
 <div align="center">
   <a href="https://github.com/GabrielDevelop777/pedido-via-wpp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielDevelop777&repo=Conversor-de-Moedas&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielDevelop777&repo=pedido-via-wpp&theme=tokyonight" />
   </a>
   <a href="https://github.com/GabrielDevelop777/gestor-de-tarefas">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielDevelop777&repo=gestor-de-tarefas&theme=tokyonight" />
@@ -30,7 +30,7 @@ const gabriel = {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielDevelop777&repo=snake-game&theme=tokyonight" />
   </a>
   <a href="https://github.com/GabrielDevelop777/dev-previsao">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielDevelop777&repo=JokenPo&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielDevelop777&repo=dev-previsao&theme=tokyonight" />
   </a>
 </div>
 
