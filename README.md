@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Olá, eu sou Gabriel!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=3584E4&size=30&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End;REACT+%7C+NODE+%7C+JavaScript;Appaixonado+por+criar+experiências+web" alt="Texto digitado">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=3584E4&size=30&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-End;REACT+%7C+NODE+%7C+JavaScript;Mestre+em+criar+experiências+web" alt="Texto digitado">
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Sobre Mim
